@@ -1,0 +1,116 @@
+h1 {
+    color: rgb(24, 142, 142);
+    font-size: 100px;
+    -webkit-text-stroke: black 2px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+h2 {
+    color: rgb(24, 142, 142);
+    -webkit-text-stroke: black 1px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+
+
+}
+
+
+.small-image {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    border-radius: 15%;
+}
+
+
+.QR-vipps {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10%;
+    padding-left: 50px;
+    padding-right: 15px
+}
+
+
+body {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1080px;
+    background-color: rgb(190, 239, 239);
+}
+
+.list {
+    text-align: center;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: rgb(148, 204, 230);
+    width: 520px;
+    border-radius: 10px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+.text-box {
+    border: 2px solid black;
+    padding: 15px;
+    background-color: rgb(162, 211, 231);
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.plan {
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(162, 211, 231);
+    width: 510px;
+    border-radius: 10px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.donasjon {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(162, 211, 231);
+    text-align: center;
+    width: 530px;
+
+
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.facebook-link {
+    font-weight: bold;
+}
